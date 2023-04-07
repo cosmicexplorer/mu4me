@@ -1,0 +1,8 @@
+#+TITLE: mu4me
+#+STARTUP: showall
+
+???
+
+* License
+
+[[./LICENSE][GPL 3.0 or any later version.]]
